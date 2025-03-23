@@ -1,7 +1,7 @@
 import React, { memo, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-import './style.scss';
+import './style.css';
 
 
 const NotFoundPage: React.FC = () => {
